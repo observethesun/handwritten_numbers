@@ -11,7 +11,7 @@ Note that the archive is split into parts, start with part 001 to unzip all the 
 
 Some examples from the dataset:
 
-![image](https://github.com/observethesun/handwritten_numbers/assets/19876717/cac12876-bee4-445d-a978-cc7c17440f1a)
+![image](https://github.com/observethesun/handwritten_numbers/assets/19876717/a6fb4b71-bb06-4c8a-8cf1-3217406baa05)
 
 Using this dataset in research, please cite
 
